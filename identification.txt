@@ -1,0 +1,20 @@
+a.)  "single-threaded"
+answer: single-threaded is  the processing of one command at a time. 
+It can't execute multiple command because it process commands and finished for just one given instruction execute to be achieve.
+When one command is processed so another command will entertained or accomodated.
+
+
+b.)  "event driven architecture"
+answer: in my own understanding, event driven architecture is an action used in graphical user interfaces which performing actions 
+in response to user input. And detects some events that to be executed for changes of the program, acquiring the reactions to the events.
+
+c.) What are the benefits of a javascript module
+answer: the module pattern promotes self contained code. A module will typically push one object onto the global namespace, 
+and all interaction with the module goes through this object.It's like a "main" method. A common benefit I see cited is that you can 
+have true private methods and fields in Javascript with the module pattern, but this can also be achieved along with being able to have static or instance methods
+
+d.) Give two implementations of javascript module
+answer: commonJS, 
+
+e.) In you own words, what is a module bundler.
+answer: module bundler is contained with functionality codes which is to compressed..
